@@ -55,3 +55,6 @@
     path = framework/contrib/neml2
     url = ../../applied-material-modeling/neml2.git
     update = none
+[submodule "framework/contrib/sciantix-official"]
+	path = framework/contrib/sciantix-official
+	url = git@github.com:sciantix/sciantix-official.git
