@@ -9,7 +9,8 @@
                 "/opt/mpich/include/**",
                 "/opt/wasp/include/**",
                 "/opt/rh/gcc-toolset-12/root/usr/include/**",
-                "/usr/include/**"
+                "/usr/include/**",
+                "framework/include/*"
             ],
             "defines": [],
             "compilerPath": "/opt/rh/gcc-toolset-12/root/usr/bin/gcc",

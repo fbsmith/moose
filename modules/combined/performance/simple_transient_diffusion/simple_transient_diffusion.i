@@ -50,5 +50,6 @@
 []
 
 [Outputs]
+  exodus = true
   csv = true
 []
